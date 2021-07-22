@@ -8,7 +8,7 @@ Para ganar encuentra todos los items y acercate a ambos personajes.
 
 - [@sergioriv2](https://github.com/sergioriv2) 
 - [@Goldyr](https://github.com/Goldyr)
-- [Facudread24](https://github.com/Facudread24)
+- [@Facudread24](https://github.com/Facudread24)
 
 ## Herramientas
 
