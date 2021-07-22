@@ -1,4 +1,4 @@
-AMIX
+#AMIX
 
 El juego trata sobre un grupo de 3 amigos muy cercanos que tienen un problema con la desaparicion de sus pertenencias.
 El grupo de amigos sufre una discucion por esto y se alejan en el momento, une a tus amigos de vuelta encontrando sus items ocultos en el mapa.
